@@ -16,6 +16,17 @@ Then generate your new project:
 yo steal
 ```
 
+Then Configurating your Project Build.
+```bash
+yo steal:build:config
+```
+It will ask you all it needs.
+
+
+
+
+
+
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
