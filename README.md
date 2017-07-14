@@ -1,4 +1,6 @@
 # generator-steal [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/direktspeed/generator-steal.svg)](https://greenkeeper.io/)
 > Configures steal build and export in your Project
 
 ## Installation
