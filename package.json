@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "eslint": "4.9.0",
-    "eslint-config-xo-space": "0.16.0",
+    "eslint-config-xo-space": "0.25.0",
     "gulp": "3.9.1",
     "gulp-coveralls": "0.1.4",
     "gulp-eslint": "3.0.1",
